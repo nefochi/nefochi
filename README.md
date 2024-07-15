@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 aligh="center"> Hi there 👋, I'm Nefochi</h1>
 
-<!--
-**nefochi/nefochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a frontend developer
+- 💻 I'm learning to program and I like it
+- 🖼️ I am engaged in web design
+- 🎮 I love to play video games
 
-Here are some ideas to get you started:
+### Languages and Tools
+- JavaScript
+- HTML
+- CSS
+- VisualStudioCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow Me
+[Instagram](https://www.instagram.com/_nefochi)
+
